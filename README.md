@@ -4,7 +4,6 @@ Undergraduate Computer Science student at Newcastle University.
 
 - **Currently working on:** University coursework
 - **2026/27 goal:** Industrial placement in software development
-- L.J.Huddleston1@ncl.ac.uk | [LinkedIn](https://www.linkedin.com/in/lewishuddleston/)
 
 ---
 
