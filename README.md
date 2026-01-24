@@ -1,8 +1,8 @@
-# Hi, I’m Lewis 👋
+# Hi, I’m Lewis
 
-Computer Science student at Newcastle University, focused on building secure, well-structured software systems with real-world applications.
+Computer Science student at Newcastle University.
 
-- 🔭 Currently working on: backend development, internal tools, and systems coursework  
+- 🔭 Currently working on: University coursework  
 - 🎯 2026/27 goal: Industrial placement in software development  
 - 🧠 Interests: backend systems, security, automation, clean architecture  
 - 📫 Reach me: L.J.Huddleston1@ncl.ac.uk | [LinkedIn](https://www.linkedin.com/in/lewishuddleston/)
@@ -17,7 +17,7 @@ Designed and built a security-focused authentication system using industry-stand
 
 ---
 
-### 🌐 Internal API & Web Platform (Banner Contracts)
+### 🌐 Internal API & Web Platform
 **Tech:** Python, REST APIs, backend architecture, web integration  
 Contributed to the development of an internal API and supporting web platform used to streamline operational workflows. Focused on clean endpoint design, data handling, and building maintainable backend components that integrate with existing business systems.
 
