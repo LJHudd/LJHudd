@@ -27,7 +27,7 @@ Designed and implemented a security-focused authentication system using industry
 
 ### Internal API & Web Platform
 **Tech:** Python, REST APIs, backend architecture, web integration  
-Contributed to the development of an internal API and supporting web platform to streamline operational workflows. Focused on clean endpoint design, robust data handling, and maintainable backend components intergrated with existing business systems.
+Contributed to the development of an internal API and supporting web platform to streamline operational workflows. Focused on clean endpoint design, robust data handling, and maintainable backend components integrated with existing business systems.
 
 ---
 
