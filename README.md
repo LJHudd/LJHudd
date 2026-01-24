@@ -18,7 +18,7 @@ Undergraduate Computer Science student at Newcastle University.
 ---
 
 ## Selected Work & Case Studies
-*Note: Repositories are private due to university and client confidentiality. Code and design decisions are available to discuss on request.*
+*Note: Repositories are private due to university policies and client confidentiality. Code and technical decisions can be discussed on request.*
 
 ### Secure Flask Authentication System
 **Tech:** Python, Flask, WTForms, bcrypt, CSRF, rate limiting  
