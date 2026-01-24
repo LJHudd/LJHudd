@@ -2,10 +2,10 @@
 
 Computer Science student at Newcastle University.
 
-- 🔭 Currently working on: 
-- 🎯 2026/27 goal: Industrial placement in software development
-- 🧠 Interests: security, backend systems, automation, clean architecture
-- 📫 Reach me: L.J.Huddleston1@ncl.ac.uk | [<LinkedIn>](https://www.linkedin.com/in/lewishuddleston/)
+- Currently working on: ...
+- 2026/27 goal: Industrial placement in software development
+- Interests: security, backend systems, automation, clean architecture
+- Reach me: L.J.Huddleston1@ncl.ac.uk | [<LinkedIn>](https://www.linkedin.com/in/lewishuddleston/)
 
 ---
 
@@ -20,7 +20,7 @@ Built a security-focused auth system with production-style configuration and def
 Automations for structured business workflows: validation, reporting, and repeatable processes.  
 
 ### 🌐 Networking / Systems Coursework
-**Tech:** Java networking / C concurrency (as applicable)  
+**Tech:** Java networking / C concurrency
 Implemented protocol handling, timeouts/acks, and job-queue concurrency patterns.  
 
 ---
