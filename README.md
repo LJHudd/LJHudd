@@ -2,10 +2,17 @@
 
 Computer Science student at Newcastle University.
 
-- 🔭 Currently working on: University coursework  
-- 🎯 2026/27 goal: Industrial placement in software development  
-- 🧠 Interests: backend systems, security, automation, clean architecture  
-- 📫 Reach me: L.J.Huddleston1@ncl.ac.uk | [LinkedIn](https://www.linkedin.com/in/lewishuddleston/)
+- Currently working on: University coursework  
+- 2026/27 goal: Industrial placement in software development 
+- Reach me: L.J.Huddleston1@ncl.ac.uk | [LinkedIn](https://www.linkedin.com/in/lewishuddleston/)
+
+---
+
+## Tech Stack
+
+**Languages:** Python, Java, C
+**Tools:** Git, Linux, Docker  
+**Focus Areas:** backend development, secure systems, automation, performance
 
 ---
 
@@ -34,16 +41,6 @@ Developed advanced spreadsheet-based tools to automate operational processes, re
 Implemented low-level networking protocols and concurrent job-queue systems, working with acknowledgements, timeouts, and synchronization to explore reliability and performance at the systems level.
 
 ---
-
-## Tech Stack
-
-**Languages:** Python, Java, C  
-**Tools:** Git, Linux, Docker  
-**Focus Areas:** backend development, secure systems, automation, performance
-
----
-
-## Contribution Snake 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LJHudd/LJHudd/output/github-contribution-grid-snake-dark.svg" />
