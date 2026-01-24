@@ -1,44 +1,46 @@
 # Hi, I’m Lewis
 
-Computer Science student at Newcastle University.
+Undergraduate Computer Science student at Newcastle University.
+
 
 - Currently working on: University coursework  
-- 2026/27 goal: Industrial placement in software development 
-- Reach me: L.J.Huddleston1@ncl.ac.uk | [LinkedIn](https://www.linkedin.com/in/lewishuddleston/)
+- 2026/27 goal: Industrial placement in software development
+- Other profiles: [LinkedIn](https://www.linkedin.com/in/lewishuddleston/)
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, Java, C
-**Tools:** Git, Linux, Docker  
-**Focus Areas:** backend development, secure systems, automation, performance
+**Languages:** Python, Java, SQL, HTML, C
+**Frameworks & Tools:** Flask, WordPress
+**Databases** MongoDB, SQLite, Excel
+**Version Control** Git, Github
 
 ---
 
 ## Featured Projects
 
-### 🔐 Secure Flask Authentication System
+### Secure Flask Authentication System
 **Tech:** Python, Flask, WTForms, bcrypt, CSRF, rate limiting  
 Designed and built a security-focused authentication system using industry-standard practices, including password hashing, CSRF protection, rate limiting, and environment-based configuration to mirror production deployments.
 
 ---
 
-### 🌐 Internal API & Web Platform
+### Internal API & Web Platform
 **Tech:** Python, REST APIs, backend architecture, web integration  
 Contributed to the development of an internal API and supporting web platform used to streamline operational workflows. Focused on clean endpoint design, data handling, and building maintainable backend components that integrate with existing business systems.
 
 ---
 
-### 📊 Operational Spreadsheet Automation
-**Tech:** Python, Excel automation, data validation, workflow optimisation  
-Developed advanced spreadsheet-based tools to automate operational processes, reducing manual input and improving data consistency. Implemented structured validation, automated calculations, and repeatable workflows for day-to-day business use.
+### Networking & Systems Coursework
+**Tech:** Java networking, C concurrency  
+Implemented low-level networking protocols and concurrent job-queue systems, working with acknowledgements, timeouts, and synchronization to explore reliability and performance at the systems level.
 
 ---
 
-### ⚙️ Networking & Systems Coursework
-**Tech:** Java networking, C concurrency  
-Implemented low-level networking protocols and concurrent job-queue systems, working with acknowledgements, timeouts, and synchronization to explore reliability and performance at the systems level.
+### Operational Spreadsheet Automation
+**Tech:** Python, Excel automation, data validation, workflow optimisation  
+Developed advanced spreadsheet-based tools to automate operational processes, reducing manual input and improving data consistency. Implemented structured validation, automated calculations, and repeatable workflows for day-to-day business use.
 
 ---
 
